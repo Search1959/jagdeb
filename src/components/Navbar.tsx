@@ -115,7 +115,7 @@ export default function Navbar({ onNavClick, activeSection, onOpenCalculator }: 
           {/* Right Action Button Call */}
           <div className="hidden lg:flex items-center gap-3">
             <a
-              href="/jni_company_brochure.pdf"
+              href="./jni_company_brochure.pdf"
               download="Jagdev_Nagar_Industries_Brochure.pdf"
               className="flex items-center gap-2 px-4 py-2.5 bg-[#020617] hover:bg-slate-900 text-slate-200 rounded-sm transition-colors border border-slate-800 hover:border-slate-700 text-xs font-bold uppercase tracking-wider cursor-pointer"
               id="nav-brochure-btn"
@@ -163,7 +163,7 @@ export default function Navbar({ onNavClick, activeSection, onOpenCalculator }: 
 
           <div className="flex flex-col gap-4 mt-8">
             <a
-              href="/jni_company_brochure.pdf"
+              href="./jni_company_brochure.pdf"
               download="Jagdev_Nagar_Industries_Brochure.pdf"
               className="w-full flex items-center justify-center gap-2 bg-[#020617] hover:bg-slate-900 text-slate-200 text-sm font-bold uppercase tracking-wider py-3.5 rounded-sm border border-slate-800 hover:border-slate-700 cursor-pointer text-center"
             >

@@ -49,7 +49,7 @@ export default function Footer({ onNavClick }: FooterProps) {
 
             <div className="mt-6">
               <a
-                href="/jni_company_brochure.pdf"
+                href="./jni_company_brochure.pdf"
                 download="Jagdev_Nagar_Industries_Brochure.pdf"
                 className="inline-flex items-center gap-2 px-4 py-2.5 bg-slate-900 hover:bg-slate-800 text-slate-200 text-xs font-bold uppercase tracking-wider rounded-sm border border-slate-800 hover:border-slate-700 cursor-pointer transition-all duration-300 w-full sm:w-auto justify-center"
                 id="footer-brochure-btn"
