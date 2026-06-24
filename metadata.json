@@ -1,0 +1,6 @@
+{
+  "name": "Jagdev Nagar Industries",
+  "description": "Premium, modern industrial steel pipe manufacturer based in Sultanpur, Uttar Pradesh. Specializing in ERW steel pipes, GI pipes, and structural tubes with an interactive weight calculator and AI steel advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
